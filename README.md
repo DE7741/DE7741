@@ -2,6 +2,9 @@
 
 I'm a full-stack software engineer with a foundation in React, Node.js/Express, Python, Django, SQL/NoSQL.
 I believe that technology has the power to shape and transform industries, and I strive every day to be at the forefront of this revolution. As a full-stack engineer, I've delved deep into both the surface and the core of web applications. My profound experience in backend development, combined with my expertise in cloud technologies like AWS, positions me uniquely in the tech landscape.
+
+
+
 Software Engineer at dbSpy (https://db-spy.io/) a relational database development tool.
 
 
