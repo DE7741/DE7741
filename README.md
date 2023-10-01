@@ -40,7 +40,7 @@ Software Engineer at dbSpy (https://db-spy.io/) a relational database developmen
 
 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dariusokafor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariusokafor)
 
 <!--
 **DE7741/DE7741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
