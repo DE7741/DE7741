@@ -5,7 +5,7 @@ I believe that technology has the power to shape and transform industries, and I
 
 
 
-Software Engineer at dbSpy/Reactime (www.reacti.me) a relational database development tool.
+Software Engineer at dbSpy/Reactime (https://reactime.io/) a relational database development tool.
 
 
 ## Tech Skills:
