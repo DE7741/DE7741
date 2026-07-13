@@ -6,7 +6,7 @@ I believe that technology has the power to shape and transform industries, and I
 
 
 Software Engineer at snorkel.ai (https://snorkel.ai).   
-Former company DbSpy/Reactime (www.reacti.me).
+Former company DbSpy/Reactime (https://reactimetravel.github.io/reactime-website/).
 
 ## Tech Skills:
 
