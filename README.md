@@ -6,7 +6,9 @@ I believe that technology has the power to shape and transform industries, and I
 
 
 AI Product Engineer at Incluud ( http://incluud.com/ ).
+
 Former Software Engineer at snorkel.ai (https://snorkel.ai).   
+
 Former company DbSpy/Reactime (https://reactimetravel.github.io/reactime-website/).
 
 ## Tech Skills:
